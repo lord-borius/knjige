@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.Properties.Resources.resources
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\knjigs\knjigs\bin\Debug\knjigs.exe.config
+C:\Users\Admin\source\repos\knjigs\knjigs\bin\Debug\knjigs.exe
+C:\Users\Admin\source\repos\knjigs\knjigs\bin\Debug\knjigs.pdb
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.exe
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.pdb
+C:\Users\Admin\source\repos\knjigs\knjigs\obj\Debug\knjigs.Form1.resources
